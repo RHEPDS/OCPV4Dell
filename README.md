@@ -42,6 +42,8 @@
 
 13:45		Next Steps -> Training offerings
 
+          https://www.linkedin.com/groups/9843187/
+
 14:00		Summary and Q&A Day Two
 
 14:30		End of the Workshop
