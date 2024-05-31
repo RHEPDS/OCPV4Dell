@@ -1,37 +1,48 @@
 <img src="https://github.com/RHEPDS/OCPFundation4IBM/blob/main/logo.png" width="450" height="120">
 
-# Red Hat Open Hybrid Cloud 
+# Red Hat Open Shift Virtualisation Workshop for DELL
 
-## PoV Development Workshop Paris
-
-### Version V0624
+## DELL Ireland
 
 ## Agenda:
 
-09:00-09:15		Welcome & Introductions 
+# 19. June 2024
 
-09:15-10:00		Why OpenShift - Value Prop. 
+10:00		Welcome and Intro
 
-10:00-11:00		IBM Sessions
+10:15		OpenShift / OpenShift Virtualization Overview 
 
-11:00-11:15  Coffee Break
+11:30		Storage and network requirements
 
-11:15-12:00 	OpenShift Virtualisation
+12:00		 BREAK 		
 
-12:00-12:30		Multi-Cluster Management and HCP	
+12:15		Live Demo  “Creating and Managing VM in OCP-V” plus opt HandsOn
 
-12:30-13:15		Lunch Break
+14:00		Summary / Q&A  Day One 
 
-13:15-14:45		Group Activity - Part 1
+# 20. June 2024
 
-14:45-15:15		OpenShift Plus
+10:00		OCP Virt Features and Functions vs VMware
 
-15:15-15:35		OpenShift AI
+11:00		HA and DR Settings 
 
-15:35-16:00   Automation
+11:30		BREAK
 
-16:00-16:15		Break
+11:45		Migration Toolkit for Virtualisation
 
-16:15-17:00		Group Activity - Part 2  
+12:15		Live Demo “Migrate a VMware VM into OpenShift Container Virtualization”
 
-17:00-17:30		Q&A
+12:45		Open Discussion
+
+          Solution / Project Design, 
+
+          Ideal Customer environments 
+
+          Objection handling
+
+13:45		Next Steps -> Training offerings
+
+14:00		Summary and Q&A Day Two
+
+14:30		End of the Workshop
+
